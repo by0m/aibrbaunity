@@ -1,0 +1,24 @@
+// VMF File Exported By Crafty (c) 2006 Ryan Gregg
+// http://nemesis.thewavelength.net/
+
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "3325"
+	"mapversion" "1"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordon
+{
+	"mins" "(99999 99999 99999)"
+	"maxs" "(-99999 -99999 -99999)"
+	"active" "0"
+}
