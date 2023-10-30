@@ -1,0 +1,4 @@
+repository "BreakingGreat@Tier4_Games@cloud"
+  path "/"
+    br "/main"
+    co "/main"
